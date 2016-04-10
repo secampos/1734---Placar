@@ -1,0 +1,12 @@
+4
+cardonha 9
+infelizreprovado 3
+marcel 9 
+infelizaprovado 3
+
+5
+maria 10
+joao 7
+laildson 9
+joana 5
+wanderley 5
