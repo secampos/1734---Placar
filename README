@@ -20,6 +20,8 @@ Para cada instância, você deverá imprimir um identificador Instancia k, onde 
 
 Após cada instância imprima uma linha em branco.
 
+O problema foi retirado do site http://br.spoj.com e é o problema 1734.
+
 PROGRAMA
 
 O programa cria uma lista de listas com o arquivo de entrada, e ordena as listas com relação as notas e depois cria subconjuntos com os alunos com a mesma nota e ordena pelos nomes.
