@@ -40,12 +40,13 @@ def mergesort(alunos, p, r, indice):
 def ranking_alunos(alunos):
     p = 0
     r = len(alunos)
-
+    
     # Ordena em relação as notas em ordem decrescente
     mergesort(alunos, p, r, 1)
     
     # Separa em subconjuntos contendo os alunos com as mesmas notas e ordena em relação aos nomes em ordem crescente
     num = alunos[p][1]
+    i = p
     for i in range(p+1, r):
         if(alunos[i][1] != num):
             num = alunos[i][1]
